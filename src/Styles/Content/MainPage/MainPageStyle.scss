@@ -1,0 +1,14 @@
+.wrapperMain{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wrapperMain > img{
+  width: 300px;
+  height: 300px;
+}
+.wrapperMain > ul {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}

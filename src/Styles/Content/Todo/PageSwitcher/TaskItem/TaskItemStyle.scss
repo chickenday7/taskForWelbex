@@ -1,0 +1,63 @@
+
+.taskWrapper{
+  padding-top: 12px;
+  font-family: RobotoRegular;
+  position: relative;
+}
+.taskWrapper__title{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.taskWrapper__content{
+  padding-top: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.taskValue{
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+
+}
+.taskValue > input {
+  margin: 0;
+}
+.taskValue__title{
+  position: relative;
+}
+.activeTask{
+  text-decoration: line-through;
+}
+.inactiveTask{
+
+}
+.taskValue__title::after {
+  position: absolute;
+  content: '   ';
+  width: 15px;
+  height: 10px;
+  background-image: url("/src/pen-svgrepo-com.svg");
+  background-size: 15px 10px;
+  background-repeat: no-repeat;
+}
+.taskNotification{
+  padding-left: 20px;
+  color: red;
+}
+.taskWrapper > h5{
+  font-family: RobotoBold;
+  margin: 0;
+}
+.deleteIcon{
+  width: 12px;
+  height: 12px;
+  bottom: 0;
+  left: 70px;
+  position: absolute;
+  cursor: pointer;
+}
+.taskWrapper__input{
+  width: 300px;
+}
+

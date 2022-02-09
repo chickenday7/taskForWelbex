@@ -1,0 +1,17 @@
+.navbar{
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+}
+.navbar__item{
+  font-family: RobotoBlack;
+  font-size: 18px;
+  color: black;
+  margin-top: 5px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.navbar__item:nth-child(1){
+  margin-top: 0;
+}

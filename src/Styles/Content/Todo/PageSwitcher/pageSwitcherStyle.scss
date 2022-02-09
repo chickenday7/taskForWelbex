@@ -1,0 +1,22 @@
+.paginationWrapper{
+  padding: 15px 0 15px 60px ;
+  display: flex;
+  flex-direction: row;
+  font-family: RobotoRegular;
+}
+.activePage{
+  font-family: RobotoBold;
+  padding:  0 5px;
+  cursor: pointer;
+  color: blue;
+}
+.disabledPage{
+  padding: 0 5px;
+  cursor: pointer;
+}
+
+.disabledPage:hover{
+  color: red;
+}
+
+

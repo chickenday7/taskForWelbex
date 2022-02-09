@@ -1,0 +1,11 @@
+.wrapperAddForm{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  width: 300px;
+}
+.wrapperAddForm > span {
+  color: blue;
+  padding-left: 10px;
+}
