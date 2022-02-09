@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taskForWelbex/static/css/main.c09c562e.css",
+    "main.js": "/taskForWelbex/static/js/main.3bed08a6.js",
+    "static/js/787.cfd8f164.chunk.js": "/taskForWelbex/static/js/787.cfd8f164.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/taskForWelbex/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/taskForWelbex/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Black.ttf": "/taskForWelbex/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "static/media/Roboto-Bold.ttf": "/taskForWelbex/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Light.ttf": "/taskForWelbex/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/logo.svg": "/taskForWelbex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/delete-svgrepo-com.svg": "/taskForWelbex/static/media/delete-svgrepo-com.fd76a2d8c7684be61d74ee51a39e2331.svg",
+    "static/media/pen-svgrepo-com.svg": "/taskForWelbex/static/media/pen-svgrepo-com.29db878fd87c921e717f.svg",
+    "index.html": "/taskForWelbex/index.html",
+    "main.c09c562e.css.map": "/taskForWelbex/static/css/main.c09c562e.css.map",
+    "main.3bed08a6.js.map": "/taskForWelbex/static/js/main.3bed08a6.js.map",
+    "787.cfd8f164.chunk.js.map": "/taskForWelbex/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09c562e.css",
+    "static/js/main.3bed08a6.js"
+  ]
+}
